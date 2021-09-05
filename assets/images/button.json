@@ -1,0 +1,53 @@
+{ "frames": [
+   {
+    "filename": "present_normal",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 32, "h": 8 },
+    "sourceSize": { "w": 32, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "present_pressed",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 32, "h": 8 },
+    "sourceSize": { "w": 32, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "future_normal",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 32, "h": 8 },
+    "sourceSize": { "w": 32, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "future_pressed",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 32, "h": 8 },
+    "sourceSize": { "w": 32, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.27-dev",
+  "image": "button.png",
+  "format": "RGBA8888",
+  "size": { "w": 128, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "present_normal", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "present_pressed", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "future_normal", "from": 2, "to": 2, "direction": "forward" },
+   { "name": "future_pressed", "from": 3, "to": 3, "direction": "forward" }
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+    "player" : {
+        "x" : 50,
+        "y" : 426
+    },
+    "platforms" : [],
+    "boxes" : [],
+    "buttons" : [],
+    "text" : [
+        {
+            "x" : 25,
+            "y" : 150,
+            "text" : "Thanks for playing!",
+            "font" : "Arial",
+            "size" : 25,
+            "colour" : [0, 0, 0]
+        },
+        {
+            "x" : 25,
+            "y" : 180,
+            "text" : "I only started this project like 2 days before the end of the jam",
+            "font" : "Arial",
+            "size" : 25,
+            "colour" : [0, 0, 0]
+        },
+        {
+            "x" : 25,
+            "y" : 210,
+            "text" : "so I may make more content as this is far from everything I wanted to make.",
+            "font" : "Arial",
+            "size" : 25,
+            "colour" : [0, 0, 0]
+        }
+    ]
+}

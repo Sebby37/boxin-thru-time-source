@@ -1,0 +1,46 @@
+{
+    "player" : {
+        "x" : 50,
+        "y" : 426
+    },
+    "platforms" : [
+        {
+            "x" : 250,
+            "y" : 425,
+            "width" : 4,
+            "type" : 1
+        },
+        {
+            "x" : 450,
+            "y" : 350,
+            "width" : 4,
+            "type" : 2
+        }
+    ],
+    "boxes" : [
+        {
+            "x" : 290,
+            "y" : 370
+        }
+    ],
+    "buttons" : [
+        {
+            "x" : 100,
+            "y" : 506
+        },
+        {
+            "x" : 475,
+            "y" : 338
+        }
+    ],
+    "text" : [
+        {
+            "x" : 225,
+            "y" : 150,
+            "text" : "Now with a little platforming",
+            "font" : "Arial",
+            "size" : 35,
+            "colour" : [0, 0, 0]
+        }
+    ]
+}

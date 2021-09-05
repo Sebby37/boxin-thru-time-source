@@ -1,0 +1,41 @@
+{
+    "player" : {
+        "x" : 50,
+        "y" : 426
+    },
+    "platforms" : [],
+    "boxes" : [
+        {
+            "x" : 490,
+            "y" : 466
+        }
+    ],
+    "buttons" : [
+        {
+            "x" : 100,
+            "y" : 506
+        },
+        {
+            "x" : 300,
+            "y" : 506
+        }
+    ],
+    "text" : [
+        {
+            "x" : 75,
+            "y" : 150,
+            "text" : "Use q to travel between the present and the future",
+            "font" : "Arial",
+            "size" : 35,
+            "colour" : [0, 0, 0]
+        },
+        {
+            "x" : 120,
+            "y" : 215,
+            "text" : "Try solve this puzzle through time travel",
+            "font" : "Arial",
+            "size" : 35,
+            "colour" : [0, 0, 0]
+        }
+    ]
+}

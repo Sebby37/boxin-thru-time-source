@@ -1,0 +1,1 @@
+On the non-upscaled image, the ground level is 35 pixels above the bottom of the image
